@@ -1,8 +1,8 @@
-# 🏎️ Venkata Sai Pranav  
+﻿# 🏎️ Venkata Sai Pranav  
 ### Full-Stack Developer • AI Enthusiast • 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF3C00&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Coding+with+Speed+and+Precision;Web+%7C+AI+%7C+Cloud+Developer" />
+  <img src="./assets/f1-banner.svg" alt="F1 cars zoom past — text appears" width="700" />
 </p>
 
 ---
